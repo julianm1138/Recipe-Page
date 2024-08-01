@@ -1,2 +1,3 @@
 # Recipe-Card
-Frontend Mentor Challenge
+
+Omlette Recipe Card, styled with Tailwind.
